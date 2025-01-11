@@ -1,7 +1,7 @@
 # Ignore large file
 transactions_data.zip
 train_fraud_labels.json
+dataset.xlsx
 
 # Ignore Zone.Identifier files
 *:Zone.Identifier
-
