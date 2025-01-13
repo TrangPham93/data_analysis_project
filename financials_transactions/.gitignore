@@ -2,6 +2,7 @@
 transactions_data.zip
 train_fraud_labels.json
 dataset.xlsx
+(archived) financial_transactions_analysis.py
 
 # Ignore Zone.Identifier files
 *:Zone.Identifier
